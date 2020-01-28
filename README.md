@@ -5,9 +5,8 @@ TerraBot GitHub
 <div class="longdescription">
 <div class="content">
 							
-<p><a target="_blank" onclick="trackCampaignWebClick('auctions-4-1', 'description');" rel="nofollow" href="https://mythicalbot.com"><img alt="forthebadge" src="https://forthebadge.com/images/badges/built-with-love.svg"></a>  <a target="_blank" onclick="trackCampaignWebClick('auctions-4-1', 'description');" rel="nofollow" href="https://mythicalbot.com"><img alt="forthebadge" src="https://forthebadge.com/images/badges/made-with-javascript.svg"></a></p>
+<p><a target="_blank" onclick="trackCampaignWebClick('auctions-4-1', 'description');" rel="nofollow" href="https://discord.gg/n3bYNS"><img alt="forthebadge" src="https://forthebadge.com/images/badges/built-with-love.svg"></a>  <a target="_blank" onclick="trackCampaignWebClick('auctions-4-1', 'description');" rel="nofollow" href="https://mythicalbot.com"><img alt="forthebadge" src="https://forthebadge.com/images/badges/made-with-javascript.svg"></a></p>
 <a target="_blank" onclick="trackCampaignWebClick('auctions-4-1', 'description');" rel="nofollow" href="https://top.gg/bot/590915364376805387">
-  <img alt="Mythical" src="https://top.gg/api/widget/status/590915364376805387.svg">
 </a>
 <style>
 @keyframes floating {
