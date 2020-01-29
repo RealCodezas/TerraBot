@@ -1,5 +1,5 @@
-# TerraBot
-TerraBot GitHub
+# TerraBot Information
+
 <div class="container is-widescreen">
 
 <div class="longdescription">
@@ -12,8 +12,16 @@ TerraBot GitHub
 <a target="_blank" onclick="trackCampaignWebClick('auctions-4-1', 'description');" rel="nofollow" href="https://top.gg/bot/590915364376805387">
 </a>
 
-<p>Hey there, I'm Terra Bot.</p>
+# Hello there, I'm Terra Bot
+
 <p>I have some secret, cool, fun and moderation commands. Hope you like me.</p>
 <p>And make sure to join <a target="_blank" onclick="trackCampaignWebClick('auctions-4-1', 'description');" rel="nofollow" href="https://discord.gg/n3bYNS">my support server</a>.</p>
 
-{"id": "635209285302747136", "name": "TerraBot Discord", "instant_invite": "https://canary.discordapp.com/invite/uDEx6S", "channels": [{"id": "672053439106252811", "name": "General 1", "position": 0}, {"id": "672053458194661426", "name": "General 2", "position": 1}, {"id": "672053491400835097", "name": "General 3", "position": 2}, {"id": "672053529246171136", "name": "Music", "position": 3}], "members": [{"id": "0", "username": "Codezas", "discriminator": "0000", "avatar": null, "status": "dnd", "avatar_url": "https://cdn.discordapp.com/widget-avatars/u9O8v6FMtrjNzAmhJkkfyQdnof5j1n_mu76WdAeCnFs/qJ_kVv9JG7dpnYFioz2yEl-kbBfWBtbyv6N2C3H7Fskmn9KOyGgQ9NK-4A7THePtRfIZgRSMaJMzDmC7DCxotRPuVJ380lenr5UZlbZQTECs7PDNWPMFILDVfdtoQ1crOiCBsO7r5W1xIzL8"}, {"id": "1", "username": "Donate Bot", "discriminator": "0000", "avatar": null, "status": "online", "avatar_url": "https://cdn.discordapp.com/widget-avatars/MDsWZcvn9E72o_0zGNv6yiRnd4m2m6aqsvoPptOQXHI/8onG4gCbiTT-_jBiW3_nYsjfQ1XWbG8-rhUiKVgT0nTqu876TikfOA6bJ-lSdZKBTSTM9joYjFavrX0eHHyiAJ6dgCeZYH6xhkYWuErWcKA7EQnKX2KiZq_IMeesj49HPTsTQxtkQiJyBQ"}], "presence_count": 2}
+
+# Commands
+
+<p> Terra Bot's commands aren't available yet, because the bot isn't fully finished! Developers are planning bot releasing as soon as they finish :) <p>
+
+# Information about what kind of things will Terra Bot have
+
+<p> Basically you may probably know many bots with different commands, events. This bot is planned to have all of them!<p>
