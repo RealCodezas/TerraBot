@@ -16,3 +16,4 @@ TerraBot GitHub
 <p>I have some secret, cool, fun and moderation commands. Hope you like me.</p>
 <p>And make sure to join <a target="_blank" onclick="trackCampaignWebClick('auctions-4-1', 'description');" rel="nofollow" href="https://discord.gg/n3bYNS">my support server</a>.</p>
 
+https://canary.discordapp.com/api/guilds/635209285302747136/widget.json
