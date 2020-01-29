@@ -21,9 +21,6 @@
     <a href="https://discord.gg/bRCvFy9"><img src="https://canary.discordapp.com/api/guilds/635209285302747136/embed.png" alt="Discord server" /></a>
     <a href="https://www.patreon.com/terrabot"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>
   </p>
-  <p>
-    <a href="https://nodei.co/npm/discord.js/"><img src="https://nodei.co/npm/discord.js.png?downloads=true&stars=true" alt="npm installnfo" /></a>
-  </p>
 </div>
 
 # Hello there, I'm Terra Bot
