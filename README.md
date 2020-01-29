@@ -26,6 +26,7 @@
 </a>
   </p>
 </div>
+<span class="text-yellow" data-type="Bitcoin, Litecoin, Dogecoin, Bitcoin&nbsp;Cash, Bitcoin&nbsp;Gold, Ethereum, Zcash, Dash, EOS">Dogecoin</span>
 
 # Hello there, I'm Terra Bot
 
