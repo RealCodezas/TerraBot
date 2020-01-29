@@ -25,3 +25,23 @@
 # Information about what kind of things will Terra Bot have
 
 <p> Basically you may probably know many bots with different commands, events. This bot is planned to have all of them!<p>
+
+<script type="text/javascript" src="//cdn.jsdelivr.net/gh/restingcoder/discord-widget@1.1/discord-widget.min.js"></script>
+<script type="text/javascript">
+    discordWidget.init({
+        serverId: '635209285302747136',
+        title: 'Discord Widget Title',
+        join: true,
+        joinText: 'Join Server',
+        alphabetical: false,
+        theme: 'light',
+        hideChannels: ['Channel Name 1', 'Channel Name 2'],
+        showAllUsers: true,
+        allUsersDefaultState: true,
+        showNick: false,
+        userName: '',
+        useCDN: true
+    });
+    discordWidget.render();
+</script>
+<div class="discord-widget"></div>
