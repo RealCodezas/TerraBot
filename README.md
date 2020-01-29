@@ -24,6 +24,8 @@
 <a target="_blank" onclick="trackCampaignWebClick('auctions-4-1', 'description');" rel="nofollow" href="https://discord.gg/sYVBZm4"><img alt="forthebadge" src="https://forthebadge.com/images/badges/uses-js.svg"</a></p>
 <a target="_blank" onclick="trackCampaignWebClick('auctions-4-1', 'description');" rel="nofollow" href="https://top.gg/bot/590915364376805387">
 </a>
+  </p>
+</div>
 
 # Hello there, I'm Terra Bot
 
