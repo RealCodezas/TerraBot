@@ -37,7 +37,7 @@
 
 <p> Terra Bot's commands aren't available yet, because the bot isn't fully finished! Developers are planning bot releasing as soon as they finish :) <p>
 
-# Information about what kind of things will Terra Bot have!
+# Information about what kind of things will Terra Bot have
 
 <p> Basically you may probably know many bots with different commands, events. This bot is planned to have all of them!<p>
 
