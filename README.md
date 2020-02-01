@@ -27,18 +27,6 @@
   </p>
 </div>
 
-</h1>
-<p class="u-fs-22 text-white u-lh-1_8 u-mb-40">
-Discordtip is a bot that allows you to send cryptocurrency tips to any Discord user.
-</p>
-<a href="#invite" data-scrollto="invite" class="btn btn-rounded btn-yellow m-2 px-md-5 py-3">
-Get it on your server
-</a>
-<a href="#features" data-scrollto="features" class="btn btn-rounded btn-white m-2 px-md-5 py-3">
-See how to use it
-</a>
-</div>
-
 # Hello there, I'm Terra Bot
 
 <p>I have some secret, cool, fun and moderation commands. Hope you like me.</p>
