@@ -27,11 +27,6 @@
   </p>
 </div>
 
-<div class="col-12 u-mt-80 text-center">
-<h1 class="display-4 u-fw-600 text-white u-mb-40">
-Tip <span class="text-yellow" data-type="Bitcoin, Litecoin, Dogecoin, Bitcoin&nbsp;Cash, Bitcoin&nbsp;Gold, Ethereum, Zcash, Dash, EOS">Bitc</span>
-<span class="typed-curcor text-yellow">|</span><br>
-and more on your Discord server
 </h1>
 <p class="u-fs-22 text-white u-lh-1_8 u-mb-40">
 Discordtip is a bot that allows you to send cryptocurrency tips to any Discord user.
