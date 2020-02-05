@@ -12,6 +12,7 @@
   <br />
   <p>
     <a href="https://discord.gg/sYVBZm4"><img src="https://canary.discordapp.com/api/guilds/635209285302747136/embed.png" alt="Discord server" /></a>
+	<a href="https://discord.gg/sYVBZm4"><img src="https://top.gg/api/widget/status/590915364376805387.svg" alt="Discord server">
     <a href="https://www.patreon.com/terrabot"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>
   </p>
 </div>
