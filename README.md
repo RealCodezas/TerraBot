@@ -40,4 +40,11 @@
 # Information about what kind of things will Terra Bot have
 
 <p> Basically you may probably know many bots with different commands, events. This bot is planned to have all of them!<p>
+	<script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
+  new Crate({
+    server: '299881420891881473',
+    channel: '355719584830980096',
+    shard: 'https://disweb.dashflo.net'
+  })
+</script>
 
